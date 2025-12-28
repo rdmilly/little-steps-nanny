@@ -1,1 +1,19 @@
-ewogICJuYW1lIjogImxpdHRsZS1zdGVwcy1uYW5ueSIsCiAgInZlcnNpb24iOiAiMS4wLjAiLAogICJkZXNjcmlwdGlvbiI6ICJXZWJzaXRlIGZvciBMaXR0bGUgU3RlcHMgTmFubnkgLSBQcm9mZXNzaW9uYWwgY2hpbGRjYXJlIHNlcnZpY2VzIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgInNjcmlwdHMiOiB7CiAgICAiZGV2IjogInZpdGUiLAogICAgImJ1aWxkIjogInZpdGUgYnVpbGQiLAogICAgInByZXZpZXciOiAidml0ZSBwcmV2aWV3IgogIH0sCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJyZWFjdCI6ICJeMTguMi4wIiwKICAgICJyZWFjdC1kb20iOiAiXjE4LjIuMCIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiQHZpdGVqcy9wbHVnaW4tcmVhY3QiOiAiXjQuMi4xIiwKICAgICJ2aXRlIjogIl41LjAuMCIKICB9Cn0K
+{
+  "name": "little-steps-nanny",
+  "version": "1.0.0",
+  "description": "Website for Little Steps Nanny - Professional childcare services",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0"
+  }
+}
